@@ -1,0 +1,50 @@
+gid add .
+git add *.txt
+git status
+git commit -m "trzeci komit"
+git push origin feature/mikolo
+git status
+git fetch
+git pull
+git pull origin master
+git fetch
+git pull
+git pull origin master
+git fetch
+git pull
+git fetch
+git status
+doskey /history>manyConflicts.txt
+git commit -m"drugi commit"
+git push origin master
+git status
+git branch b- feature/mikolo
+git branch -b feature/mikolo
+git branch
+git branch -b feature/mikolo
+git branch feature/mikolo
+git checkout feature/mikolo
+git status
+git checkout master
+git merge feature/mikolo
+git checkout feature/mikolo
+git push origin feature/mikolo
+git status
+git push
+git push origin feature/mikolo
+git fetch
+git status
+git pulll
+git pull
+git branch
+git status
+git checkout moj_branch
+git branch
+git checkout feature/mikolo
+git checkout master
+git merge mikolo/feature
+git checkout mikolo/feature
+git merge feature/mikolo
+git checkout feature/mikolo
+nano bedzieGit.txt
+git status
