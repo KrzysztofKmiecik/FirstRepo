@@ -1,0 +1,50 @@
+cd FirstRepo
+cat > ulubiony_wyraz.txt
+ls -la
+git status
+cd .. | rm -rf FirstRepo
+ls
+cd..
+rm -rf FirstRepo
+ls
+git clone https://github.com/KrzysztofKmiecik/FirstRepo.git
+ls -la
+dir
+git branch ulubiony_wyraz.txt
+git status
+cd FirstRepo
+git status
+cat > bartek.txt
+git add .
+git status
+git commit -m "added file bartek"
+git status
+git push
+git pull
+git status
+git fetch
+git status
+dir
+git status
+git push
+git log
+git checkout -b bartekbranch
+git sattus
+git status
+cat > Bartek
+git add Bartek
+git commit Bartek
+git fench
+git status
+git push origin Bartek
+git status
+git push
+git push origin
+doskey /history >manyConflicts.txt
+git remote add https://github.com/KrzysztofKmiecik/FirstRepo.git
+git remote origin https://github.com/KrzysztofKmiecik/FirstRepo.git
+git remote add origin https://github.com/KrzysztofKmiecik/FirstRepo.git
+md FirstRepo
+ls -la
+dir
+md cd FirstRepo
