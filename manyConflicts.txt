@@ -48,3 +48,4 @@ git merge feature/mikolo
 git checkout feature/mikolo
 nano bedzieGit.txt
 git status
+
