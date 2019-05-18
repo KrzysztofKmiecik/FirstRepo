@@ -1,0 +1,50 @@
+git status
+git checkout moj_branch
+git checkout master
+git checkout moj_branch
+git status
+git merge master
+git status
+git push origin moj_branch
+git status
+git fetch
+git pull origin moj_branch
+git status
+nano ulubiony.txt
+git status
+git add .
+git status
+git commit -m  " sdfsd"
+git status
+git push origin moj_branch
+git checkout master
+git status
+git fetch
+git marge moj_branch
+git merge moj_branch
+git status
+git push origin master
+cd..
+cd FirstRepo
+git status
+doskey /history >manyConflicts.txt
+git status
+git fetch
+git status
+git push origin moj_branch
+git status
+cd..
+mdir jakiesRepo
+md jakiesRepo
+cd jakiesRepo
+dir
+git init
+git remote add https://github.com/KrzysztofKmiecik/jakiesRepo.git
+git remote add  origin https://github.com/KrzysztofKmiecik/jakiesRepo.git 
+touch ulubiony.txt
+cat > ulubiony.txt
+git status
+git add .
+git commit -m "opis"
+git status
+git branch moj_branch
